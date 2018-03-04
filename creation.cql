@@ -15,7 +15,7 @@ idHab int,
 type varchar,
 photo varchar,
 localisation varchar,
-PRIMARY KEY(idHab, id));
+PRIMARY KEY(id));
 
 CREATE TABLE element_invasif (
 id int,
@@ -23,4 +23,4 @@ idHab int,
 type varchar,
 photo varchar,
 localisation varchar,
-PRIMARY KEY(idHab, id));
+PRIMARY KEY(id));

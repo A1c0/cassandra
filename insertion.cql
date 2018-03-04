@@ -1,5 +1,5 @@
-INSERT INTO habitat(id, milieu, typeH, photo, localisation) VALUES('1', 'Végetation arbustive', 'Massif arbustif planté en plein terre ou sur dalles', 'h20180224112251.jpg', '48.824639135 2.123843223 667051.333576721 6812621.257847104' );
-INSERT INTO habitat(id, milieu, typeH, photo, localisation) VALUES('2', 'Terrains dominés par des herbacées', 'Pelouse en plein terre ou sur dalles', 'h20180224164524.jpg', '48.814959338 2.085437193 665606.0589678002 6812555.007697367' );
-INSERT INTO element_invasif(id, idHab, type, photo, localisation) VALUES('1', '2', "Taupes", 'i20180224164616.jpg', '48.814975057 2.085372837 665603.640574751 6812555.174523082');
-INSERT INTO habitat(id, milieu, typeH, photo, localisation) VALUES('3', 'Boisements, forets et autres terrains boisés', 'Haie haute libre', 'h20180224165021.jpg', '48.815077765 2.085462017 665607.0053870955 6812556.023742007' );
-INSERT INTO element_remarcable(id, idHab, type, photo, localisation) VALUES('1', '3', 'Bois mort', 'r20180224165115.jpg', '48.814995544 2.08543798 665606.092510805 6812555.321540432');
+INSERT INTO habitat(id, milieu, typeH, photo, localisation) VALUES(1, 'Végetation arbustive', 'Massif arbustif planté en plein terre ou sur dalles', 'h20180224112251.jpg', '48.824639135 2.123843223 667051.333576721 6812621.257847104' );
+INSERT INTO habitat(id, milieu, typeH, photo, localisation) VALUES(2, 'Terrains dominés par des herbacées', 'Pelouse en plein terre ou sur dalles', 'h20180224164524.jpg', '48.814959338 2.085437193 665606.0589678002 6812555.007697367' );
+INSERT INTO element_invasif(id, idHab, type, photo, localisation) VALUES(1, 2, 'Taupes', 'i20180224164616.jpg', '48.814975057 2.085372837 665603.640574751 6812555.174523082');
+INSERT INTO habitat(id, milieu, typeH, photo, localisation) VALUES(3, 'Boisements, forets et autres terrains boisés', 'Haie haute libre', 'h20180224165021.jpg', '48.815077765 2.085462017 665607.0053870955 6812556.023742007' );
+INSERT INTO element_remarcable(id, idHab, type, photo, localisation) VALUES(1, 2, 'Bois mort', 'r20180224165115.jpg', '48.814975057 2.085372837 665603.640574751 6812555.174523082');
