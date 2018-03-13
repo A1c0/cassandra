@@ -412,9 +412,19 @@
 	"buffers":
 	[
 		{
+			"file": "creation.cql",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 755,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "insertion.cql",
+			"settings":
+			{
+				"buffer_size": 1110,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -630,10 +640,26 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 488.0,
-		"last_filter": "git pu",
+		"height": 344.0,
+		"last_filter": "push",
 		"selected_items":
 		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"qui",
+				"Git: Quick Commit"
+			],
+			[
+				"gita",
+				"Git: Quick Add"
+			],
+			[
+				"ssql",
+				"Set Syntax: SQL"
+			],
 			[
 				"git pu",
 				"Git: Push"
@@ -645,10 +671,6 @@
 			[
 				"git a",
 				"Git: Quick Add"
-			],
-			[
-				"push",
-				"Git: Push"
 			],
 			[
 				"git co",
@@ -861,10 +883,6 @@
 			[
 				"git chc",
 				"Git: Checkout Tag"
-			],
-			[
-				"gita",
-				"Git: Add All"
 			],
 			[
 				"pa",
@@ -1278,10 +1296,40 @@
 			[
 				{
 					"buffer": 0,
+					"file": "creation.cql",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 755,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1,
+								1
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "insertion.cql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1110,
 						"regions":
 						{
 						},
@@ -1294,14 +1342,14 @@
 						],
 						"settings":
 						{
-							"default_dir": "C:\\Users\\alexa\\Desktop\\cassandra",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/SQL/SQL.sublime-syntax",
+							"word_wrap": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]

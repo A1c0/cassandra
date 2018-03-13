@@ -7,7 +7,10 @@ id uuid,
 milieu varchar,
 typeHab varchar,
 photo varchar,
-localisation varchar,
+GPS_lat float,
+GPS_long float,
+GPS_lat_lam float,
+GPS_long_lam float,
 date_enr date,
 heure_enr time,
 PRIMARY KEY(id));
@@ -15,29 +18,38 @@ PRIMARY KEY(id));
 CREATE TABLE element_remarcable (
 id uuid,
 idHab uuid,
+nomMilieu varchar,
+typeHab, varchar,
 type varchar,
 photo varchar,
-localisation varchar,
+GPS_lat float,
+GPS_long float,
+GPS_lat_lam float,
+GPS_long_lam float,
 date_enr date,
 heure_enr time,
-PRIMARY KEY(id));
+PRIMARY KEY(id, idHab, nomMilieu, typeHab));
 
 CREATE TABLE element_invasif (
 id uuid,
-idHab uuid,
 type varchar,
 photo varchar,
-localisation varchar,
+GPS_lat float,
+GPS_long float,
+GPS_lat_lam float,
+GPS_long_lam float,
 date_enr date,
 heure_enr time,
 PRIMARY KEY(id));
 
 CREATE TABLE espece (
 id uuid,
-idHab uuid,
 nom_esp varchar,
 photo varchar,
-localisation varchar,
+GPS_lat float,
+GPS_long float,
+GPS_lat_lam float,
+GPS_long_lam float,
 date_enr date,
 heure_enr time,
 PRIMARY KEY(id));
