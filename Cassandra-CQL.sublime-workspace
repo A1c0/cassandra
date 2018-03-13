@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"type",
+				"typeHab"
+			],
+			[
+				"I",
+				"INTO\t(insertion.cql)"
+			],
+			[
+				"G",
+				"GPS_long"
+			],
+			[
 				"A",
 				"As"
 			],
@@ -415,7 +427,8 @@
 			"file": "creation.cql",
 			"settings":
 			{
-				"buffer_size": 755,
+				"buffer_size": 987,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
@@ -423,7 +436,7 @@
 			"file": "insertion.cql",
 			"settings":
 			{
-				"buffer_size": 1110,
+				"buffer_size": 1920,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -649,6 +662,10 @@
 				"Git: Push"
 			],
 			[
+				"gitc",
+				"Git: Quick Commit"
+			],
+			[
 				"qui",
 				"Git: Quick Commit"
 			],
@@ -663,10 +680,6 @@
 			[
 				"git pu",
 				"Git: Push"
-			],
-			[
-				"gitc",
-				"Git: Quick Commit"
 			],
 			[
 				"git a",
@@ -993,7 +1006,7 @@
 				"About"
 			]
 		],
-		"width": 810.0
+		"width": 665.0
 	},
 	"console":
 	{
@@ -1020,6 +1033,7 @@
 	],
 	"file_history":
 	[
+		"/C/Windows/System32/switch.bat",
 		"/C/Users/alexa/OneDrive/ESME Sudria/2C/VBA/VBA-TD/TD 13-03-2018/exo1.vba",
 		"/C/Users/alexa/OneDrive/ESME Sudria/2C/VBA/VBA-TD/TD 06-03-2018/exo4.vba",
 		"/C/Users/alexa/OneDrive/ESME Sudria/2C/VBA/VBA-TD/TD 06-03-2018/exo3.vba",
@@ -1146,8 +1160,7 @@
 		"/C/Users/alexa/OneDrive/ESME Sudria/2Y/IHM/BDD_QSQL_3/BDD_QSQL_3.pro",
 		"/C/Users/alexa/OneDrive/ESME Sudria/2Y/Architecture des microsystems/Projet MPLAB X/Test_apres_7h.X/main.c",
 		"/C/Users/alexa/Downloads/initialisation.c",
-		"/C/Users/alexa/OneDrive/ESME Sudria/2Y/IHM/BDD_QSQL_1/mainwindow.h",
-		"/C/Users/alexa/OneDrive/ESME Sudria/2Y/IHM/BDD_QSQL_1/main.cpp"
+		"/C/Users/alexa/OneDrive/ESME Sudria/2Y/IHM/BDD_QSQL_1/mainwindow.h"
 	],
 	"find":
 	{
@@ -1165,6 +1178,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			",",
 			"date;",
 			"date",
 			"int",
@@ -1300,15 +1314,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 755,
+						"buffer_size": 987,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1,
-								1
+								539,
+								539
 							]
 						],
 						"settings":
@@ -1317,27 +1331,33 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 264.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
-				},
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
 				{
 					"buffer": 1,
 					"file": "insertion.cql",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1110,
+						"buffer_size": 1920,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1920,
+								1920
 							]
 						],
 						"settings":
@@ -1346,10 +1366,10 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 825.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1372,11 +1392,18 @@
 				0,
 				1,
 				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
 			]
 		],
 		"cols":
 		[
 			0.0,
+			0.5,
 			1.0
 		],
 		"rows":
