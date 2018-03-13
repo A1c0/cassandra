@@ -1,0 +1,1504 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"A",
+				"As"
+			],
+			[
+				"B",
+				"ByRef\t(exo3.vba)"
+			],
+			[
+				"fo",
+				"function\tFunction"
+			],
+			[
+				"co",
+				"compteur1"
+			],
+			[
+				"no",
+				"nombreAmis"
+			],
+			[
+				"so",
+				"sontAmis"
+			],
+			[
+				"nom",
+				"nombreB"
+			],
+			[
+				"di",
+				"Dim"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"en",
+				"End"
+			],
+			[
+				"nomb",
+				"nombreB"
+			],
+			[
+				"su",
+				"Sub"
+			],
+			[
+				"n",
+				"nombreA"
+			],
+			[
+				"ele",
+				"element_remarcable\t(creation.cql)"
+			],
+			[
+				"id",
+				"idHab\t(creation.cql)"
+			],
+			[
+				"ty",
+				"typeH\t(creation.cql)"
+			],
+			[
+				"IS",
+				"INSERT"
+			],
+			[
+				"t",
+				"toString()"
+			],
+			[
+				"arr",
+				"arrow\t[] "
+			],
+			[
+				"c",
+				"catch\t? "
+			],
+			[
+				"i",
+				"if\tif"
+			],
+			[
+				"p",
+				"parseInt\tfn "
+			],
+			[
+				"or",
+				"order"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"ali",
+				"align-items"
+			],
+			[
+				"flex",
+				"flex-wrap"
+			],
+			[
+				"fl",
+				"flex"
+			],
+			[
+				"b",
+				"border"
+			],
+			[
+				"fonst",
+				"font-style"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"bcol",
+				"border-color"
+			],
+			[
+				"bor",
+				"border-style"
+			],
+			[
+				"al",
+				"align-content"
+			],
+			[
+				"tea",
+				"text-align"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"h",
+				"html"
+			],
+			[
+				"me",
+				"meta\tTag"
+			],
+			[
+				"H",
+				"H1\tTag"
+			],
+			[
+				"LED",
+				"LED7_LAT\t(pin_manager.h)"
+			],
+			[
+				"led",
+				"LED7_LAT"
+			],
+			[
+				"S",
+				"S1_PORT\t(pin_manager.h)"
+			],
+			[
+				"S1_",
+				"S1_LAT\t(pin_manager.h)"
+			],
+			[
+				"max",
+				"maxFinal"
+			],
+			[
+				"MPI",
+				"MPI_INT"
+			],
+			[
+				"vale",
+				"value"
+			],
+			[
+				"MPIS",
+				"MPI_Send\t(Cours_exo_5.c)"
+			],
+			[
+				"nb",
+				"nbr_process"
+			],
+			[
+				"Pro",
+				"processPrecedent"
+			],
+			[
+				"proc",
+				"procSuivant"
+			],
+			[
+				"pr",
+				"printf\tprintf …"
+			],
+			[
+				"pro",
+				"procSuivant"
+			],
+			[
+				"MPICO",
+				"MPI_Comm_rank\t(Cours_exo_5.c)"
+			],
+			[
+				"MPIC",
+				"MPI_COMM_WORLD\t(Cours_exo_5.c)"
+			],
+			[
+				"MPI_",
+				"MPI_Init\t(Cours_exo_5.c)"
+			],
+			[
+				"mpi",
+				"mpi.h\t(Cours_exo_5.c)"
+			],
+			[
+				"eta",
+				"etatInterne"
+			],
+			[
+				"esl",
+				"ELSIF"
+			],
+			[
+				"AB",
+				"AB0"
+			],
+			[
+				"US",
+				"UNSIGNED\t(FSM.vhd)"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"clk",
+				"clk"
+			],
+			[
+				"els",
+				"elsif\telsif"
+			],
+			[
+				"us",
+				"UNSIGNED"
+			],
+			[
+				"val",
+				"valAffiche"
+			],
+			[
+				"de",
+				"define_display"
+			],
+			[
+				"std",
+				"STD_logic_vector"
+			],
+			[
+				"on",
+				"onOff"
+			],
+			[
+				"ta",
+				"text_tab"
+			],
+			[
+				"st",
+				"static"
+			],
+			[
+				"s",
+				"switcher"
+			],
+			[
+				"tex",
+				"text_tab"
+			],
+			[
+				"EN",
+				"EncryptEnigma\t(Main2.java)"
+			],
+			[
+				"y",
+				"ySZkIqdeeORrSPz"
+			],
+			[
+				"next",
+				"nextInt"
+			],
+			[
+				"u",
+				"uUH"
+			],
+			[
+				"w",
+				"wWJ"
+			],
+			[
+				"set",
+				"setKey\t(Encrypt.java)"
+			],
+			[
+				"get",
+				"getKey\t(Encrypt.java)"
+			],
+			[
+				"char",
+				"charAt\t(Encrypt.java)"
+			],
+			[
+				"scanner",
+				"I-Scanner\tinit"
+			],
+			[
+				"con",
+				"continue"
+			],
+			[
+				"Y",
+				"Y"
+			],
+			[
+				"ne",
+				"nextLine"
+			],
+			[
+				"En",
+				"Encrypt"
+			],
+			[
+				"key",
+				"keyExist"
+			],
+			[
+				"Encr",
+				"EncryptVigenere\t(EncryptVigenere.java)"
+			],
+			[
+				"se",
+				"setKey\t(EncryptCesar.java)"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"enc",
+				"encryptObject"
+			],
+			[
+				"E",
+				"Encrypt\t(Encrypt.java)"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"toS",
+				"toString()\tfunc"
+			],
+			[
+				"tos",
+				"toString()\tfunc - FX"
+			],
+			[
+				"i-sca",
+				"I-Scanner\tinit"
+			],
+			[
+				"SCANNER",
+				"SCANNER\tJava* Class"
+			],
+			[
+				"LIST",
+				"LIST\tJava* Class"
+			],
+			[
+				"ARRAYLI",
+				"ARRAYLIST\tJava Class"
+			],
+			[
+				"JP",
+				"JPANEL\tJavax Class"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/VBScript/VBScript.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 2 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 3 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 4 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 5 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 6 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 7 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 8 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 9 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 10 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 20 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 30 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 50 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 100 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 150 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 200 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 250 processus"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					""
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 2 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 3 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 4 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 5 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 6 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 7 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 8 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 9 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 10 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 20 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 30 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 50 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 100 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 150 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 200 processus"
+				],
+				[
+					"Packages/User/MPI.sublime-build",
+					"Run 250 processus"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/VBScript/VBScript.sublime-build",
+					""
+				],
+				[
+					"Packages/VBScript/VBScript.sublime-build",
+					"Run with WScript"
+				],
+				[
+					"Packages/VBScript/VBScript.sublime-build",
+					"Debug with CScript"
+				]
+			],
+			[
+				"Packages/VBScript/VBScript.sublime-build",
+				"Run with WScript"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 488.0,
+		"last_filter": "git pu",
+		"selected_items":
+		[
+			[
+				"git pu",
+				"Git: Push"
+			],
+			[
+				"gitc",
+				"Git: Quick Commit"
+			],
+			[
+				"git a",
+				"Git: Quick Add"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"git co",
+				"Git: Quick Commit"
+			],
+			[
+				"git com",
+				"Git: Commit"
+			],
+			[
+				"pull",
+				"Git: Pull"
+			],
+			[
+				"pus",
+				"Git: Push"
+			],
+			[
+				"git c",
+				"Git: Quick Commit"
+			],
+			[
+				"git",
+				"Git: Commit"
+			],
+			[
+				"sssql",
+				"Set Syntax: SQL"
+			],
+			[
+				"gitl",
+				"Git: Quick Log"
+			],
+			[
+				"sss",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssvb",
+				"Set Syntax: VBScript"
+			],
+			[
+				"ss",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssjava",
+				"Set Syntax: Java"
+			],
+			[
+				"ssvbs",
+				"Set Syntax: VBScript"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"git sta",
+				"Git: Status"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"git st",
+				"Git: Status"
+			],
+			[
+				"gitadd",
+				"Git: Quick Add"
+			],
+			[
+				"gitin",
+				"Git: Init"
+			],
+			[
+				"log",
+				"Git: Log"
+			],
+			[
+				"git pus",
+				"Git: Push"
+			],
+			[
+				"git comm",
+				"Git: Quick Commit"
+			],
+			[
+				"git rem",
+				"Git: Remote"
+			],
+			[
+				"remo",
+				"Git: Add Remote"
+			],
+			[
+				"ssba",
+				"Set Syntax: Batch File"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"add",
+				"Git: Add Current File"
+			],
+			[
+				"giti",
+				"Git: Init"
+			],
+			[
+				"m",
+				"QuickMenu: Example Code"
+			],
+			[
+				"pul",
+				"Git: Pull Current Branch"
+			],
+			[
+				"git in",
+				"Git: Init"
+			],
+			[
+				"git pull",
+				"Git: Pull"
+			],
+			[
+				"gitlo",
+				"Git: Quick Log Current File"
+			],
+			[
+				"gitco",
+				"Git: Quick Commit"
+			],
+			[
+				"ch",
+				"Git: Checkout"
+			],
+			[
+				"lo",
+				"Git: Log"
+			],
+			[
+				"git q",
+				"Git: Quick Commit"
+			],
+			[
+				"git lo",
+				"Git: Log"
+			],
+			[
+				"pacinst",
+				"Package Control: Install Package"
+			],
+			[
+				"pacre",
+				"Package Control: Remove Package"
+			],
+			[
+				"gi",
+				"Git: Init"
+			],
+			[
+				"dele",
+				"Git: Delete Branch"
+			],
+			[
+				"chang",
+				"Git: Change Branch"
+			],
+			[
+				"gitbr",
+				"Git: Delete Branch"
+			],
+			[
+				"git ch",
+				"Git: Checkout Current File"
+			],
+			[
+				"gitch",
+				"Git: Change Branch"
+			],
+			[
+				"gich",
+				"Git: Checkout Tag"
+			],
+			[
+				"log ",
+				"Git: Log All"
+			],
+			[
+				"tag",
+				"Git: Show Tags"
+			],
+			[
+				"pacins",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			],
+			[
+				"git chc",
+				"Git: Checkout Tag"
+			],
+			[
+				"gita",
+				"Git: Add All"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"pacin",
+				"Package Control: Install Package"
+			],
+			[
+				"git b",
+				"Git: New Branch"
+			],
+			[
+				"gith",
+				"Git: Change Branch"
+			],
+			[
+				"his",
+				"Git: Commit history"
+			],
+			[
+				"chec",
+				"Git: Checkout Tag"
+			],
+			[
+				"stat",
+				"Git: Status"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"git h",
+				"Git: Commit history"
+			],
+			[
+				"git log",
+				"Git: Log All"
+			],
+			[
+				"inspa",
+				"Package Control: Install Package"
+			],
+			[
+				"sscss",
+				"Set Syntax: CSS"
+			],
+			[
+				"ap",
+				"Package Control: Remove Package"
+			],
+			[
+				"ht",
+				"Set Syntax: HTML"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"SSHTL",
+				"Set Syntax: HTML"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"ssjav",
+				"Set Syntax: Java"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"pacc",
+				"Package Control: Disable Package"
+			],
+			[
+				"vh",
+				"Set Syntax: VHDL"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"re",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"ssvhdl",
+				"Set Syntax: VHDL"
+			],
+			[
+				"pacta",
+				"Package Control: Install Package"
+			],
+			[
+				"ssvh",
+				"Set Syntax: VHDL"
+			],
+			[
+				"a",
+				"About"
+			]
+		],
+		"width": 810.0
+	},
+	"console":
+	{
+		"height": 227.0,
+		"history":
+		[
+			"exit",
+			"git log",
+			"cd /path/to/sublime-text-N/Packages"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": false,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/alexa/Desktop/cassandra"
+	],
+	"file_history":
+	[
+		"/C/Users/alexa/OneDrive/ESME Sudria/2C/VBA/VBA-TD/TD 13-03-2018/exo1.vba",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2C/VBA/VBA-TD/TD 06-03-2018/exo4.vba",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2C/VBA/VBA-TD/TD 06-03-2018/exo3.vba",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2C/VBA/VBA-TD/TD 06-03-2018/exo2.vba",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2C/VBA/VBA-TD/TD 06-03-2018/exo1.vba",
+		"/C/Users/alexa/Desktop/cassandra/insertion.cql",
+		"/C/Users/alexa/Desktop/cassandra/creation.cql",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Cours 13 04 2017/scr/TestRandomCharacterOrNumber.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Cours 13 04 2017/scr/TestRandomCharacter.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Cours 13 04 2017/scr/TestPassByValue.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Cours 13 04 2017/scr/TestMethodOverloading.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Cours 13 04 2017/scr/RandomCharacter.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Cours 13 04 2017/scr/Test.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Cours 13 04 2017/scr/Increment.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Projet Cryptage/Projet Crytage v4/scr/Test2.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Projet Cryptage/Projet Crytage v4/scr/Test.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Projet Cryptage/Projet Crytage v4/scr/Mainv2.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Projet Cryptage/Projet Crytage v4/scr/Main2.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Projet Cryptage/Projet Crytage v4/scr/Main.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Projet Cryptage/Projet Crytage v4/scr/Test3.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Projet Cryptage/Projet Crytage v4/scr/Test4.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Homework 2/scr/Test.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Homework 2/scr/Problem5.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Homework 2/scr/Problem2.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Homework 2/scr/Problem1.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Homework 2/scr/Problem3.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Homework 2/scr/Problem2",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Homework 2/scr/Problem4.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/1A/Corée/Java/Cours 06 04 2017/StringComp.java",
+		"/C/Users/alexa/Desktop/testcass/GettingStarted.java",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2C/VBA/TD 06-03-2018/exo1.vba",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2C/VBA/TD 06-03-2018/exo3.vba",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2C/VBA/TD 06-03-2018/exo2.vba",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2C/VBA/TD 06-03-2018/exo4.vba",
+		"/C/Users/alexa/Desktop/cassandra/start.bat",
+		"/C/Users/alexa/Desktop/switch.bat",
+		"/C/Users/alexa/Desktop/test.cql.sql",
+		"/C/Program Files/DataStax Community/apache-cassandra/bin/cqlsh.py",
+		"/C/Users/alexa/Desktop/test.cql",
+		"/C/myApp/apache-cassandra-3.11.2/conf/cassandra.yaml",
+		"/C/myApp/apache-cassandra-3.11.2/conf/cassandra-env.ps1",
+		"/C/Users/alexa/Desktop/Dilatation_erosion_binaire_bitmap/tool.h",
+		"/C/Users/alexa/Desktop/Dilatation_erosion_binaire_bitmap/lena_RGB.bmp",
+		"/C/Users/alexa/Desktop/Dilatation_erosion_binaire_bitmap/lena_NB.bmp",
+		"/C/Users/alexa/Desktop/Dilatation_erosion_binaire_bitmap/Header.h",
+		"/C/Users/alexa/Desktop/Dilatation_erosion_binaire_bitmap/main-MSI.c",
+		"/C/Users/alexa/Desktop/Dilatation_erosion_binaire_bitmap/fonction_IMG.h",
+		"/C/Users/alexa/Desktop/Dilatation_erosion_binaire_bitmap/fonction_IMG.c",
+		"/C/Users/alexa/Desktop/Dilatation_erosion_binaire_bitmap/fonction_DE_RGB.h",
+		"/C/Users/alexa/Desktop/Dilatation_erosion_binaire_bitmap/fonction_DE_RGB.c",
+		"/C/Users/alexa/Desktop/Dilatation_erosion_binaire_bitmap/fonction_DE_NB.h",
+		"/C/Users/alexa/Desktop/Dilatation_erosion_binaire_bitmap/fonction_DE_NB.c",
+		"/C/Users/alexa/Desktop/Dilatation_erosion_binaire_bitmap/fonction_DE_COMMUN.h",
+		"/C/Users/alexa/Desktop/Dilatation_erosion_binaire_bitmap/main.c",
+		"/C/Users/alexa/Desktop/Dilatation_erosion_binaire_bitmap/fonction_DE_COMMUN.c",
+		"/C/Users/alexa/Desktop/TEST2/creation-bash-cassandra/init.cql",
+		"/C/Users/alexa/Desktop/Nouveau dossier/init.cql",
+		"/C/Users/alexa/Desktop/Nouveau dossier/test.sh",
+		"/C/Users/alexa/AppData/Roaming/Sublime Text 3/Packages/QuickMenu/QuickMenu_main.py",
+		"/C/Users/alexa/Desktop/test/main.c",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2C/_Entrainement/JavaScript/intro-javascript/chapitre_1/html/cours.html",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2C/_Entrainement/JavaScript/intro-javascript/chapitre_1/js/cours.js",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2C/_Entrainement/JavaScript/intro-javascript/chapitre_1/htmlcours.html",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2C/_Entrainement/JavaScript/Chap 1/cours.html",
+		"/C/Users/alexa/Desktop/test2/fontion.h",
+		"/C/Users/alexa/Desktop/test2/test.c",
+		"/C/Users/alexa/Desktop/test.vba",
+		"/C/Program Files (x86)/Apache-Cassandra-3.11.2/conf/cassandra.yaml",
+		"/C/Users/alexa/Desktop/Test/main.c",
+		"/C/Users/alexa/Desktop/projet JAVA/scr/Test.java",
+		"/C/Users/alexa/Desktop/Pratique 3 HTML/style.css",
+		"/C/Users/alexa/Desktop/Pratique 3 HTML/page.html",
+		"/C/Users/alexa/OneDrive/ESME Sudria/GIT/projet1/fichier.md",
+		"/C/Users/alexa/Desktop/Cours HTML/style.css",
+		"/C/Users/alexa/Desktop/Cours HTML/page.html",
+		"/C/Users/alexa/Desktop/Cour 3 HTML/page.html",
+		"/C/Users/alexa/Desktop/Cour 3 HTML/style.css",
+		"/C/Users/alexa/Desktop/Devoir 2/style.css",
+		"/C/Users/alexa/Desktop/style.css",
+		"/C/Users/alexa/Desktop/Devoir 2/index.html",
+		"/C/Users/alexa/Desktop/CV_co_2/_!DOCTYPE html_",
+		"/C/Users/alexa/Desktop/CV_co_3/Mon cv/Mon_CV.html",
+		"/C/Users/alexa/Desktop/CV_co_1/cv.html",
+		"/C/Users/alexa/Desktop/CV.html",
+		"/C/Users/alexa/Desktop/gt.html",
+		"/C/Users/alexa/Desktop/test.html",
+		"/C/Users/alexa/AppData/Roaming/Sublime Text 3/Packages/Emmet/Default (Windows).sublime-keymap",
+		"/C/Users/alexa/Desktop/img/blocnotes.txt",
+		"/C/Users/alexa/Desktop/img/blocnotes.png",
+		"/C/Users/alexa/Desktop/Test.java",
+		"/C/Users/alexa/Desktop/Chat.java",
+		"/C/Users/alexa/Desktop/Tigre.java",
+		"/C/Users/alexa/Desktop/Felin.java",
+		"/C/Users/alexa/Desktop/Canin.java",
+		"/C/Users/alexa/Desktop/Chien.java",
+		"/C/Users/alexa/Desktop/Loup.java",
+		"/C/Users/alexa/Desktop/Lion.java",
+		"/C/Users/alexa/Desktop/Nouveau dossier/Codes/exo04/TP_exo4.X/header.h",
+		"/C/Users/alexa/Desktop/Nouveau dossier/Codes/exo05/TP_exo5.X/header.h",
+		"/C/Users/alexa/Desktop/Nouveau dossier/Codes/exo04/TP_exo4.X/main.c",
+		"/C/Users/alexa/Desktop/Nouveau dossier/Codes/exo04/TP_exo4.X/initialisation.c",
+		"/C/Users/alexa/Desktop/Nouveau dossier/Codes/exo04/TP_exo4.X/fonctions.c",
+		"/C/Users/alexa/Desktop/Nouveau dossier/Codes/exo01/TP_exo1.X/fonction.c",
+		"/C/Users/alexa/Desktop/Nouveau dossier/Codes/exo01/TP_exo1.X/header.h",
+		"/C/Users/alexa/Desktop/Nouveau dossier/Codes/exo01/TP_exo1.X/init.c",
+		"/C/Users/alexa/Desktop/Nouveau dossier/Codes/exo01/TP_exo1.X/main.c",
+		"/C/Users/alexa/Desktop/Nouveau dossier/finaux/exo02/TP_exo2.X/init.c",
+		"/C/Users/alexa/Desktop/Nouveau dossier/finaux/exo02/TP_exo2.X/main.c",
+		"/C/Users/alexa/Desktop/Nouveau dossier/finaux/exo02/TP_exo2.X/header.h",
+		"/C/Users/alexa/Desktop/Nouveau dossier/finaux/exo02/TP_exo2.X/fonction.c",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2Y/Architecture des microsystems/TP_exo3.X (1)/TP_exo3.X/fonction.c",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2Y/Architecture des microsystems/TP_exo3.X (1)/TP_exo3.X/main.c",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2Y/Architecture des microsystems/TP_exo3.X (1)/TP_exo3.X/header.h",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2Y/Architecture des microsystems/TP_exo3.X (1)/TP_exo3.X/init.c",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2Y/Architecture des microsystems/TP_exo2.X/TP_exo2.X/fonction.c",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2Y/Architecture des microsystems/TP_exo2.X/TP_exo2.X/main.c",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2Y/Architecture des microsystems/TP_exo2.X/TP_exo2.X/header.h",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2Y/Architecture des microsystems/TP_exo2.X/TP_exo2.X/init.c",
+		"/C/Users/alexa/Downloads/Qt5_TD4_solution (1)/IHM_TD4/mainwindow.h",
+		"/C/Users/alexa/Downloads/Qt5_TD4_solution (1)/IHM_TD4/mainwindow.cpp",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2Y/IHM/test_trad/test_fr.ts",
+		"/C/Users/alexa/Downloads/Qt5_TD4_solution (1)/IHM_TD4/main.cpp",
+		"/C/Users/alexa/Desktop/test.sql",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2Y/IHM/BDD_QSQL_3/BDD_QSQL_3.pro",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2Y/Architecture des microsystems/Projet MPLAB X/Test_apres_7h.X/main.c",
+		"/C/Users/alexa/Downloads/initialisation.c",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2Y/IHM/BDD_QSQL_1/mainwindow.h",
+		"/C/Users/alexa/OneDrive/ESME Sudria/2Y/IHM/BDD_QSQL_1/main.cpp"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"date;",
+			"date",
+			"int",
+			"I",
+			"i",
+			"compteur1",
+			"nbrLapins",
+			"\"",
+			"JVM_VERSION",
+			"commitlogdirectory",
+			"biodiversiteTest",
+			"saved_caches_directory",
+			"commitlog_directory",
+			"data_file_directories",
+			"<a",
+			"}",
+			"1",
+			"rgb(255,255,255)",
+			"\"\"",
+			"groupbox3",
+			"groupbox2",
+			"(",
+			"void",
+			"(void)",
+			"void ",
+			"(void)",
+			"void ",
+			"void",
+			"= menu->addAction",
+			"menu->addAction",
+			"layoutPrincipal",
+			"varchar(20)",
+			"• ",
+			"        ",
+			"C:\\Users\\Admin1\\Documents\\projet ihm BDD",
+			"`",
+			"                  ",
+			";",
+			"\"",
+			";",
+			"\"",
+			"MPI_COMM_WORLD",
+			"fsxgyvbhfsfsx",
+			"void",
+			"clk",
+			"cent",
+			"compte100",
+			"centièmes",
+			"UNSIGNED",
+			"adresse",
+			"valAffiche",
+			"data",
+			"wait",
+			"UNSIGNED",
+			"when",
+			"case",
+			"Function",
+			"end",
+			"begin",
+			"Begin",
+			"is",
+			"return",
+			"UNSIGNED",
+			"signal",
+			"UNSIGNED",
+			"STD_LOGIC_VECTOR",
+			"UNSIGNED",
+			"end",
+			"port",
+			"for",
+			"wait",
+			"process",
+			"begin",
+			"signal",
+			"for",
+			"wait",
+			"process",
+			"begin",
+			"signal",
+			"end",
+			"of",
+			"is",
+			"port",
+			"component",
+			"COMPONENT",
+			"out",
+			"FSM2",
+			"a",
+			"0",
+			"horloge",
+			"200",
+			"adress_value",
+			"give_adress_2bits",
+			"Z",
+			"STD_LOGIC_VECTOR",
+			"WHEN",
+			"raz",
+			"STD_logic_vector",
+			"WHEN",
+			"data",
+			"WHEN",
+			"=",
+			" ",
+			"val2",
+			"val1",
+			"switcher",
+			"void",
+			".get()"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"default_dir": "C:\\Users\\alexa\\Desktop\\cassandra",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 39.0
+	},
+	"input":
+	{
+		"height": 59.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.exec":
+	{
+		"height": 182.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 182.0
+	},
+	"output.git-checkout":
+	{
+		"height": 182.0
+	},
+	"output.git-commit":
+	{
+		"height": 182.0
+	},
+	"output.git-init":
+	{
+		"height": 182.0
+	},
+	"output.git-pull":
+	{
+		"height": 182.0
+	},
+	"output.git-push":
+	{
+		"height": 182.0
+	},
+	"output.git-remote":
+	{
+		"height": 182.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 172.0
+	},
+	"pinned_build_system": "",
+	"project": "Cassandra-CQL.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				".h",
+				"IHM_TD4\\mainwindow.h"
+			],
+			[
+				"mai",
+				"IHM_TD4\\mainwindow.cpp"
+			],
+			[
+				"ma",
+				"IHM_TD4\\main.cpp"
+			],
+			[
+				"mul",
+				"multiplexeur.vhd"
+			],
+			[
+				"ho",
+				"horloge.vhd"
+			],
+			[
+				"",
+				"mainwindow.h"
+			],
+			[
+				"fsm",
+				"FSM.vhd"
+			],
+			[
+				"test",
+				"scr\\Test.java"
+			],
+			[
+				"enc",
+				"scr\\encrypt\\Encrypt.java"
+			],
+			[
+				"ces",
+				"scr\\encrypt\\EncryptCesar.java"
+			],
+			[
+				"eng2",
+				"scr\\encrypt\\EncryptEnigma2.java"
+			],
+			[
+				"tes",
+				"scr\\Test.java"
+			],
+			[
+				"eng",
+				"scr\\encrypt\\EncryptEnigma.java"
+			],
+			[
+				"encrypt",
+				"scr\\encrypt\\EncryptVigenere.java"
+			],
+			[
+				"v",
+				"scr\\encrypt\\EncryptVigenere.java"
+			],
+			[
+				"encr",
+				"scr\\encrypt\\Encrypt.java"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 750.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"D:\\Alexandre Contassot\\Desktop\\Fenetre java\\Fenetre java.sublime-project"
+			]
+		],
+		"width": 570.0
+	},
+	"select_symbol":
+	{
+		"height": 588.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"encr",
+				"encrypt"
+			],
+			[
+				"set",
+				"setKey"
+			]
+		],
+		"width": 588.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 225.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
