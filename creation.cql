@@ -12,7 +12,7 @@ date_enr date,
 heure_enr time,
 PRIMARY KEY(id));
 
-CREATE TABLE element_remarcable (
+CREATE TABLE element_remarcable ( --test
 id uuid,
 idHab uuid,
 type varchar,
