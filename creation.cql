@@ -17,9 +17,6 @@ PRIMARY KEY(id));
 
 CREATE TABLE element_remarcable (
 id uuid,
-idHab uuid,
-nomMilieu varchar,
-typeHab varchar,
 type varchar,
 photo varchar,
 GPS_lat float,
@@ -33,6 +30,9 @@ PRIMARY KEY(id, idHab)
 
 CREATE TABLE element_invasif (
 id uuid,
+idHab uuid,
+nomMilieu varchar,
+typeHab varchar,
 type varchar,
 photo varchar,
 GPS_lat float,

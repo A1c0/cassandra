@@ -427,7 +427,7 @@
 			"file": "creation.cql",
 			"settings":
 			{
-				"buffer_size": 987,
+				"buffer_size": 967,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -436,7 +436,7 @@
 			"file": "insertion.cql",
 			"settings":
 			{
-				"buffer_size": 1920,
+				"buffer_size": 1914,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -653,10 +653,22 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 344.0,
-		"last_filter": "push",
+		"height": 536.0,
+		"last_filter": "q",
 		"selected_items":
 		[
+			[
+				"q",
+				"Git: Quick Add"
+			],
+			[
+				"git comm",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
 			[
 				"push",
 				"Git: Push"
@@ -750,10 +762,6 @@
 				"Git: Status"
 			],
 			[
-				"git add",
-				"Git: Add Current File"
-			],
-			[
 				"git st",
 				"Git: Status"
 			],
@@ -772,10 +780,6 @@
 			[
 				"git pus",
 				"Git: Push"
-			],
-			[
-				"git comm",
-				"Git: Quick Commit"
 			],
 			[
 				"git rem",
@@ -1314,15 +1318,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 987,
+						"buffer_size": 967,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								539,
-								539
+								538,
+								538
 							]
 						],
 						"settings":
@@ -1331,7 +1335,7 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 264.0,
+						"translation.y": 336.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1349,15 +1353,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1920,
+						"buffer_size": 1914,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1920,
-								1920
+								1914,
+								1914
 							]
 						],
 						"settings":
@@ -1366,7 +1370,7 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 825.0,
+						"translation.y": 927.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1563,7 +1567,7 @@
 		],
 		"width": 588.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
