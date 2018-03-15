@@ -25,7 +25,7 @@ GPS_lat_lam float,
 GPS_long_lam float,
 date_enr date,
 heure_enr time,
-PRIMARY KEY(id, idHab)
+PRIMARY KEY(id)
 );
 
 CREATE TABLE element_invasif (
@@ -41,7 +41,7 @@ GPS_lat_lam float,
 GPS_long_lam float,
 date_enr date,
 heure_enr time,
-PRIMARY KEY(id));
+PRIMARY KEY(id, idHab));
 
 CREATE TABLE espece (
 id uuid,
