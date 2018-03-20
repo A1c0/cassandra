@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"nom",
+				"nomMilieu"
+			],
+			[
 				"type",
 				"typeHab"
 			],
@@ -38,10 +42,6 @@
 			[
 				"so",
 				"sontAmis"
-			],
-			[
-				"nom",
-				"nombreB"
 			],
 			[
 				"di",
@@ -427,7 +427,7 @@
 			"file": "creation.cql",
 			"settings":
 			{
-				"buffer_size": 967,
+				"buffer_size": 1481,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -653,17 +653,17 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 536.0,
-		"last_filter": "q",
+		"height": 248.0,
+		"last_filter": "git push",
 		"selected_items":
 		[
 			[
-				"q",
-				"Git: Quick Add"
+				"git push",
+				"Git: Push"
 			],
 			[
-				"git comm",
-				"Git: Commit"
+				"gitco",
+				"Git: Quick Commit"
 			],
 			[
 				"git add",
@@ -672,6 +672,18 @@
 			[
 				"push",
 				"Git: Push"
+			],
+			[
+				"git qu",
+				"Git: Quick Commit"
+			],
+			[
+				"q",
+				"Git: Quick Add"
+			],
+			[
+				"git comm",
+				"Git: Commit"
 			],
 			[
 				"gitc",
@@ -824,10 +836,6 @@
 			[
 				"gitlo",
 				"Git: Quick Log Current File"
-			],
-			[
-				"gitco",
-				"Git: Quick Commit"
 			],
 			[
 				"ch",
@@ -1010,7 +1018,7 @@
 				"About"
 			]
 		],
-		"width": 665.0
+		"width": 664.0
 	},
 	"console":
 	{
@@ -1182,6 +1190,8 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"KEYS",
+			"element_remarcable",
 			",",
 			"date;",
 			"date",
@@ -1318,15 +1328,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 967,
+						"buffer_size": 1481,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								538,
-								538
+								638,
+								638
 							]
 						],
 						"settings":
@@ -1335,10 +1345,10 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 336.0,
+						"translation.y": 446.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1370,10 +1380,10 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 927.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1567,7 +1577,7 @@
 		],
 		"width": 588.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
