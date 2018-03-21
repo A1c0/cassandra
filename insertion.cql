@@ -11,3 +11,5 @@ INSERT INTO habitat(id, milieu, typeHab, photo, GPS_lat, GPS_long, GPS_lat_lam, 
 INSERT INTO element_remarcable (id, idHab, nomMilieu, typeHab, type, photo, GPS_lat, GPS_long, GPS_lat_lam, GPS_long_lam, date_enr, heure_enr) VALUES(uuid(), 93bb6ad4-b40a-456d-bd42-0cba044188ac, 'Boisements, forets et autres terrains boisés', 'Haie haute libre', 'Bois mort', 'r20180224165115.jpg', 48.814975057, 2.085372837, 665603.640574751, 6812555.174523082, '2018-02-24', '16:51:15');
 
 INSERT INTO espece (id, nom_esp, photo, GPS_lat, GPS_long, GPS_lat_lam, GPS_long_lam, date_enr, heure_enr) VALUES(uuid(), 'Lapins', 'E20180224165208.jpg', 48.814975057, 2.085372837, 665603.640574751, 6812555.174523082, '2018-02-24', '16:52:08');
+
+INSERT INTO photo (id, nom, data) VALUES(uuid(), 'photo1', textAsBlob'bonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzci');
