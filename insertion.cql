@@ -12,4 +12,4 @@ INSERT INTO element_remarcable (id, idHab, nomMilieu, typeHab, type, photo, GPS_
 
 INSERT INTO espece (id, nom_esp, photo, GPS_lat, GPS_long, GPS_lat_lam, GPS_long_lam, date_enr, heure_enr) VALUES(uuid(), 'Lapins', 'E20180224165208.jpg', 48.814975057, 2.085372837, 665603.640574751, 6812555.174523082, '2018-02-24', '16:52:08');
 
-INSERT INTO photo (id, nom, data) VALUES(uuid(), 'photo1', textAsBlob'bonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzcibonjodehfefuvehifcjdhzci');
+INSERT INTO photo (id, nom, data) VALUES(uuid(), 'photo1', textAsBlob('bonjodehfefuvehifcjdhzc'));

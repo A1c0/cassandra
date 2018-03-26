@@ -424,24 +424,20 @@
 	"buffers":
 	[
 		{
-			"contents": "DROP KEYSPACE IF EXISTS databio;\nCREATE KEYSPACE databio WITH REPLICATION = { 'class' : 'SimpleStrategy', 'replication_factor' : 1 };\n\nCREATE TABLE databio.habitat (\nid uuid,\nmilieu varchar,\ntypeHab varchar,\nphoto varchar,\nGPS_lat float,\nGPS_long float,\nGPS_lat_lam float,\nGPS_long_lam float,\ndate_enr date,\nheure_enr time,\nPRIMARY KEY(id));\n\nCREATE INDEX IF NOT EXISTS milieu ON databio.habitat (milieu);\nCREATE INDEX IF NOT EXISTS typeHab ON databio.habitat (typeHab);\n\nCREATE TABLE databio.element_remarcable (\nid uuid,\ntype varchar,\nphoto varchar,\nGPS_lat float,\nGPS_long float,\nGPS_lat_lam float,\nGPS_long_lam float,\ndate_enr date,\nheure_enr time,\nPRIMARY KEY(id)\n);\n\nCREATE INDEX IF NOT EXISTS type ON databio.element_remarcable (type);\n\nCREATE TABLE databio.element_invasif (\nid uuid,\nidHab uuid,\nnomMilieu varchar static,\ntypeHab varchar static,\ntype varchar,\nphoto varchar,\nGPS_lat float,\nGPS_long float,\nGPS_lat_lam float,\nGPS_long_lam float,\ndate_enr date,\nheure_enr time,\nPRIMARY KEY(id, idHab));\n\nCREATE INDEX IF NOT EXISTS type ON databio.element_invasif (type);\nCREATE INDEX IF NOT EXISTS typeHab ON databio.element_invasif (typeHab);\nCREATE INDEX IF NOT EXISTS nomMilieu ON databio.element_invasif (nomMilieu);\n\nCREATE TABLE databio.espece (\nid uuid,\nnom_esp varchar,\nphoto varchar,\nGPS_lat float,\nGPS_long float,\nGPS_lat_lam float,\nGPS_long_lam float,\ndate_enr date,\nheure_enr time,\nPRIMARY KEY(id));\n\nCREATE INDEX IF NOT EXISTS nomMilieu ON databio.element_invasif (nomMilieu);\n\nCREATE TABLE databio.photo (\nid uuid,\nnom varchar,\ndata blop,\nPRIMARY KEY(id));\n\nCREATE INDEX IF NOT EXISTS nom ON databio.photo (nom);\n\n-- ========================TEST========================\nCREATE TABLE photo (\nid uuid,\nnom varchar,\ndata blob,\nPRIMARY KEY(id));\n\nCREATE INDEX IF NOT EXISTS nom ON test.photo (nom);",
 			"file": "creation.cql",
-			"file_size": 1705,
-			"file_write_time": 131660333812486350,
 			"settings":
 			{
-				"buffer_size": 1814,
+				"buffer_size": 1484,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"contents": "INSERT INTO habitat(id, milieu, typeHab, photo, GPS_lat, GPS_long, GPS_lat_lam, GPS_long_lam, date_enr, heure_enr) VALUES(uuid(),'Végetation arbustive', 'Massif arbustif planté en plein terre ou sur dalles', 'h20180224112251.jpg', 48.824639135, 2.123843223, 667051.333576721, 6812621.257847104, '2018-02-24', '11:22:51');\n\n\nINSERT INTO habitat(id, milieu, typeHab, photo, GPS_lat, GPS_long, GPS_lat_lam, GPS_long_lam, date_enr, heure_enr) VALUES(d63cde2d-65e4-4c4d-97f6-ba83a70fbf5a, 'Terrains dominés par des herbacées', 'Pelouse en plein terre ou sur dalles', 'h20180224164524.jpg', 48.814959338, 2.085437193, 665606.0589678002, 6812555.007697367, '2018-02-24', '16:45:24' );\n\nINSERT INTO element_invasif (id, type, photo, GPS_lat, GPS_long, GPS_lat_lam, GPS_long_lam, date_enr, heure_enr) VALUES(uuid(), 'Taupes', 'i20180224164616.jpg', 48.814975057, 2.085372837, 665603.640574751, 6812555.174523082, '2018-02-24', '16:46:16');\n\n\nINSERT INTO habitat(id, milieu, typeHab, photo, GPS_lat, GPS_long, GPS_lat_lam, GPS_long_lam, date_enr, heure_enr) VALUES(93bb6ad4-b40a-456d-bd42-0cba044188ac, 'Boisements, forets et autres terrains boisés', 'Haie haute libre', 'h20180224165021.jpg', 48.815077765, 2.085462017, 665607.0053870955, 6812556.023742007, '2018-02-24', '16:50:21');\n\nINSERT INTO element_remarcable (id, idHab, nomMilieu, typeHab, type, photo, GPS_lat, GPS_long, GPS_lat_lam, GPS_long_lam, date_enr, heure_enr) VALUES(uuid(), 93bb6ad4-b40a-456d-bd42-0cba044188ac, 'Boisements, forets et autres terrains boisés', 'Haie haute libre', 'Bois mort', 'r20180224165115.jpg', 48.814975057, 2.085372837, 665603.640574751, 6812555.174523082, '2018-02-24', '16:51:15');\n\nINSERT INTO espece (id, nom_esp, photo, GPS_lat, GPS_long, GPS_lat_lam, GPS_long_lam, date_enr, heure_enr) VALUES(uuid(), 'Lapins', 'E20180224165208.jpg', 48.814975057, 2.085372837, 665603.640574751, 6812555.174523082, '2018-02-24', '16:52:08');\n\nINSERT INTO photo (id, nom, data) VALUES(uuid(), 'photo1', textAsBlob('bonjodehfefuvehifcjdhzc'));",
 			"file": "insertion.cql",
-			"file_size": 2273,
-			"file_write_time": 131661080388778623,
 			"settings":
 			{
 				"buffer_size": 2014,
+				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		}
@@ -657,10 +653,22 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 248.0,
-		"last_filter": "git push",
+		"height": 440.0,
+		"last_filter": "gitpu",
 		"selected_items":
 		[
+			[
+				"gitpu",
+				"Git: Push"
+			],
+			[
+				"gitc",
+				"Git: Quick Commit"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
 			[
 				"git push",
 				"Git: Push"
@@ -668,10 +676,6 @@
 			[
 				"git q",
 				"Git: Quick Commit"
-			],
-			[
-				"git add",
-				"Git: Quick Add"
 			],
 			[
 				"gitco",
@@ -692,10 +696,6 @@
 			[
 				"git comm",
 				"Git: Commit"
-			],
-			[
-				"gitc",
-				"Git: Quick Commit"
 			],
 			[
 				"qui",
@@ -1332,15 +1332,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1814,
+						"buffer_size": 1484,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1348,
-								1348
+								974,
+								974
 							]
 						],
 						"settings":
@@ -1349,7 +1349,7 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1120.0,
+						"translation.y": 980.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 1,
@@ -1374,8 +1374,8 @@
 						"selection":
 						[
 							[
-								1916,
-								2014
+								1975,
+								1985
 							]
 						],
 						"settings":
