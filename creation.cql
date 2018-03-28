@@ -16,23 +16,10 @@ PRIMARY KEY(id));
 
 CREATE INDEX IF NOT EXISTS milieu ON databio.habitat (milieu);
 CREATE INDEX IF NOT EXISTS typeHab ON databio.habitat (typeHab);
+CREATE INDEX IF NOT EXISTS date_enr ON databio.habitat (date_enr);
+CREATE INDEX IF NOT EXISTS heure_enr ON databio.habitat (heure_enr);
 
 CREATE TABLE databio.element_remarcable (
-id uuid,
-type varchar,
-photo blob,
-GPS_lat float,
-GPS_long float,
-GPS_lat_lam float,
-GPS_long_lam float,
-date_enr date,
-heure_enr time,
-PRIMARY KEY(id)
-);
-
-CREATE INDEX IF NOT EXISTS type ON databio.element_remarcable (type);
-
-CREATE TABLE databio.element_invasif (
 id uuid,
 idHab uuid,
 nomMilieu varchar static,
@@ -45,11 +32,30 @@ GPS_lat_lam float,
 GPS_long_lam float,
 date_enr date,
 heure_enr time,
+PRIMARY KEY(id)
+);
+
+CREATE INDEX IF NOT EXISTS type ON databio.element_remarcable (type);
+CREATE INDEX IF NOT EXISTS typeHab ON databio.element_remarcable (typeHab);
+CREATE INDEX IF NOT EXISTS nomMilieu ON databio.element_remarcable (nomMilieu);
+CREATE INDEX IF NOT EXISTS date_enr ON databio.element_remarcable (date_enr);
+CREATE INDEX IF NOT EXISTS heure_enr ON databio.element_remarcable (heure_enr);
+
+CREATE TABLE databio.element_invasif (
+id uuid,
+type varchar,
+photo blob,
+GPS_lat float,
+GPS_long float,
+GPS_lat_lam float,
+GPS_long_lam float,
+date_enr date,
+heure_enr time,
 PRIMARY KEY(id, idHab));
 
 CREATE INDEX IF NOT EXISTS type ON databio.element_invasif (type);
-CREATE INDEX IF NOT EXISTS typeHab ON databio.element_invasif (typeHab);
-CREATE INDEX IF NOT EXISTS nomMilieu ON databio.element_invasif (nomMilieu);
+CREATE INDEX IF NOT EXISTS date_enr ON databio.element_invasif (date_enr);
+CREATE INDEX IF NOT EXISTS heure_enr ON databio.element_invasif (heure_enr);
 
 CREATE TABLE databio.espece (
 id uuid,
@@ -63,4 +69,6 @@ date_enr date,
 heure_enr time,
 PRIMARY KEY(id));
 
-CREATE INDEX IF NOT EXISTS nomMilieu ON databio.element_invasif (nomMilieu);
+CREATE INDEX IF NOT EXISTS nomMilieu ON databio.espece (nomMilieu);
+CREATE INDEX IF NOT EXISTS date_enr ON databio.espece (date_enr);
+CREATE INDEX IF NOT EXISTS heure_enr ON databio.espece (heure_enr);
