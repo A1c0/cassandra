@@ -32,8 +32,7 @@ GPS_lat_lam float,
 GPS_long_lam float,
 date_enr date,
 heure_enr time,
-PRIMARY KEY(id)
-);
+PRIMARY KEY(id, idHab));
 
 CREATE INDEX IF NOT EXISTS type ON databio.element_remarcable (type);
 CREATE INDEX IF NOT EXISTS typeHab ON databio.element_remarcable (typeHab);
@@ -51,7 +50,7 @@ GPS_lat_lam float,
 GPS_long_lam float,
 date_enr date,
 heure_enr time,
-PRIMARY KEY(id, idHab));
+PRIMARY KEY(id));
 
 CREATE INDEX IF NOT EXISTS type ON databio.element_invasif (type);
 CREATE INDEX IF NOT EXISTS date_enr ON databio.element_invasif (date_enr);
@@ -69,6 +68,6 @@ date_enr date,
 heure_enr time,
 PRIMARY KEY(id));
 
-CREATE INDEX IF NOT EXISTS nomMilieu ON databio.espece (nomMilieu);
+CREATE INDEX IF NOT EXISTS nom_esp ON databio.espece (nom_esp);
 CREATE INDEX IF NOT EXISTS date_enr ON databio.espece (date_enr);
 CREATE INDEX IF NOT EXISTS heure_enr ON databio.espece (heure_enr);

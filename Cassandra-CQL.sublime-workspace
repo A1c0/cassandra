@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"dat",
+				"date_enr"
+			],
+			[
 				"no",
 				"nom"
 			],
@@ -427,7 +431,7 @@
 			"file": "creation.cql",
 			"settings":
 			{
-				"buffer_size": 1484,
+				"buffer_size": 2061,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
@@ -653,10 +657,30 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 440.0,
-		"last_filter": "gitpu",
+		"height": 344.0,
+		"last_filter": "push",
 		"selected_items":
 		[
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"qu",
+				"Git: Quick Commit"
+			],
+			[
+				"add",
+				"Git: Quick Add"
+			],
+			[
+				"git comm",
+				"Git: Quick Commit"
+			],
+			[
+				"git ad",
+				"Git: Quick Add"
+			],
 			[
 				"gitpu",
 				"Git: Push"
@@ -682,20 +706,12 @@
 				"Git: Quick Commit"
 			],
 			[
-				"push",
-				"Git: Push"
-			],
-			[
 				"git qu",
 				"Git: Quick Commit"
 			],
 			[
 				"q",
 				"Git: Quick Add"
-			],
-			[
-				"git comm",
-				"Git: Commit"
 			],
 			[
 				"qui",
@@ -816,10 +832,6 @@
 			[
 				"comm",
 				"Git: Commit"
-			],
-			[
-				"add",
-				"Git: Add Current File"
 			],
 			[
 				"giti",
@@ -1194,6 +1206,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"element_invasif",
+			"element_remarcable",
+			"nomMilieu",
+			"element_invasif",
 			"KEYS",
 			"element_remarcable",
 			",",
@@ -1332,15 +1348,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1484,
+						"buffer_size": 2061,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								974,
-								974
+								604,
+								604
 							]
 						],
 						"settings":
@@ -1349,10 +1365,10 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 980.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1387,7 +1403,7 @@
 						"translation.y": 949.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1581,7 +1597,7 @@
 		],
 		"width": 588.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
