@@ -431,9 +431,9 @@
 			"file": "creation.cql",
 			"settings":
 			{
-				"buffer_size": 2061,
+				"buffer_size": 2056,
 				"encoding": "UTF-8",
-				"line_ending": "Windows"
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -443,6 +443,15 @@
 				"buffer_size": 2014,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Milieu aquatique et surface en eau\nSurface baties vegetalisés\nSurface entierement vegetalisé\nHabitat sans végétation ou végetation clairsemée\nTerrain agricoles et horticoles\nTerrain dominés par des herbacées\nBoisement ,foret et autre terrains boisés\nVégetation arbustive",
+			"settings":
+			{
+				"buffer_size": 270,
+				"line_ending": "Unix",
+				"name": "Milieu aquatique et surface en eau"
 			}
 		}
 	],
@@ -1057,7 +1066,7 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/alexa/Desktop/cassandra"
+		"/home/alexandre/Bureau/Projet_Map_Cassandra/cassandra"
 	],
 	"file_history":
 	[
@@ -1348,15 +1357,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2061,
+						"buffer_size": 2056,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								604,
-								604
+								182,
+								182
 							]
 						],
 						"settings":
@@ -1368,13 +1377,13 @@
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
 		},
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -1400,10 +1409,66 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 949.0,
+						"translation.y": 322.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 270,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								34,
+								34
+							],
+							[
+								61,
+								61
+							],
+							[
+								92,
+								92
+							],
+							[
+								141,
+								141
+							],
+							[
+								173,
+								173
+							],
+							[
+								207,
+								207
+							],
+							[
+								249,
+								249
+							],
+							[
+								270,
+								270
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Milieu aquatique et surface en eau",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1597,7 +1662,7 @@
 		],
 		"width": 588.0
 	},
-	"selected_group": 0,
+	"selected_group": 1,
 	"settings":
 	{
 	},
