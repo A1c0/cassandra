@@ -431,7 +431,7 @@
 			"file": "creation.cql",
 			"settings":
 			{
-				"buffer_size": 2056,
+				"buffer_size": 2062,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -449,7 +449,7 @@
 			"file": "affichage.cql",
 			"settings":
 			{
-				"buffer_size": 478,
+				"buffer_size": 479,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -667,16 +667,28 @@
 	"command_palette":
 	{
 		"height": 450.0,
-		"last_filter": "com",
+		"last_filter": "git ",
 		"selected_items":
 		[
 			[
-				"com",
+				"git ",
+				"Git: Commit"
+			],
+			[
+				"git add",
+				"Git: Quick Add"
+			],
+			[
+				"comi",
 				"Git: Quick Commit"
 			],
 			[
 				"gita",
 				"Git: Quick Add"
+			],
+			[
+				"com",
+				"Git: Quick Commit"
 			],
 			[
 				"commi",
@@ -737,10 +749,6 @@
 			[
 				"gitc",
 				"Git: Quick Commit"
-			],
-			[
-				"git add",
-				"Git: Quick Add"
 			],
 			[
 				"git push",
@@ -1231,6 +1239,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"element_remarcable",
 			",",
 			"varchar",
 			",",
@@ -1376,15 +1385,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2056,
+						"buffer_size": 2062,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								234,
-								234
+								645,
+								645
 							]
 						],
 						"settings":
@@ -1440,15 +1449,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 478,
+						"buffer_size": 479,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								478,
-								478
+								479,
+								479
 							]
 						],
 						"settings":
