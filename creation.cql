@@ -19,7 +19,7 @@ CREATE INDEX IF NOT EXISTS typeHab ON databio.habitat (typeHab);
 CREATE INDEX IF NOT EXISTS date_enr ON databio.habitat (date_enr);
 CREATE INDEX IF NOT EXISTS heure_enr ON databio.habitat (heure_enr);
 
-CREATE TABLE databio.element_remarcable (
+CREATE TABLE databio.element_remarquable (
 id uuid,
 idHab uuid,
 nomMilieu varchar static,
@@ -34,11 +34,11 @@ date_enr date,
 heure_enr time,
 PRIMARY KEY(id, idHab));
 
-CREATE INDEX IF NOT EXISTS type ON databio.element_remarcable (type);
-CREATE INDEX IF NOT EXISTS typeHab ON databio.element_remarcable (typeHab);
-CREATE INDEX IF NOT EXISTS nomMilieu ON databio.element_remarcable (nomMilieu);
-CREATE INDEX IF NOT EXISTS date_enr ON databio.element_remarcable (date_enr);
-CREATE INDEX IF NOT EXISTS heure_enr ON databio.element_remarcable (heure_enr);
+CREATE INDEX IF NOT EXISTS type ON databio.element_remarquable (type);
+CREATE INDEX IF NOT EXISTS typeHab ON databio.element_remarquable (typeHab);
+CREATE INDEX IF NOT EXISTS nomMilieu ON databio.element_remarquable (nomMilieu);
+CREATE INDEX IF NOT EXISTS date_enr ON databio.element_remarquable (date_enr);
+CREATE INDEX IF NOT EXISTS heure_enr ON databio.element_remarquable (heure_enr);
 
 CREATE TABLE databio.element_invasif (
 id uuid,

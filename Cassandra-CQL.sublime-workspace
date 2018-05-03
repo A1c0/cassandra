@@ -666,10 +666,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 356.0,
-		"last_filter": "commi",
+		"height": 450.0,
+		"last_filter": "com",
 		"selected_items":
 		[
+			[
+				"com",
+				"Git: Quick Commit"
+			],
+			[
+				"gita",
+				"Git: Quick Add"
+			],
 			[
 				"commi",
 				"Git: Commit"
@@ -757,10 +765,6 @@
 			[
 				"qui",
 				"Git: Quick Commit"
-			],
-			[
-				"gita",
-				"Git: Quick Add"
 			],
 			[
 				"ssql",
@@ -977,10 +981,6 @@
 			[
 				"stat",
 				"Git: Status"
-			],
-			[
-				"com",
-				"Git: Commit"
 			],
 			[
 				"git h",
@@ -1383,8 +1383,8 @@
 						"selection":
 						[
 							[
-								1838,
-								1700
+								234,
+								234
 							]
 						],
 						"settings":
@@ -1393,10 +1393,10 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1501.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
@@ -1454,13 +1454,14 @@
 						"settings":
 						{
 							"auto_name": "",
-							"syntax": "Packages/SQL/SQL.sublime-syntax"
+							"syntax": "Packages/SQL/SQL.sublime-syntax",
+							"word_wrap": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -1494,7 +1495,7 @@
 		"cols":
 		[
 			0.0,
-			0.215044247788,
+			0.542477876107,
 			1.0
 		],
 		"rows":
@@ -1654,7 +1655,7 @@
 		],
 		"width": 588.0
 	},
-	"selected_group": 1,
+	"selected_group": 0,
 	"settings":
 	{
 	},
