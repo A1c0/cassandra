@@ -431,7 +431,7 @@
 			"file": "creation.cql",
 			"settings":
 			{
-				"buffer_size": 2062,
+				"buffer_size": 2126,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -449,7 +449,7 @@
 			"file": "affichage.cql",
 			"settings":
 			{
-				"buffer_size": 479,
+				"buffer_size": 511,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -666,10 +666,18 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 450.0,
-		"last_filter": "git ",
+		"height": 391.0,
+		"last_filter": "git comm",
 		"selected_items":
 		[
+			[
+				"git comm",
+				"Git: Quick Commit"
+			],
+			[
+				"gita",
+				"Git: Quick Add"
+			],
 			[
 				"git ",
 				"Git: Commit"
@@ -681,10 +689,6 @@
 			[
 				"comi",
 				"Git: Quick Commit"
-			],
-			[
-				"gita",
-				"Git: Quick Add"
 			],
 			[
 				"com",
@@ -733,10 +737,6 @@
 			[
 				"add",
 				"Git: Quick Add"
-			],
-			[
-				"git comm",
-				"Git: Quick Commit"
 			],
 			[
 				"git ad",
@@ -1225,7 +1225,7 @@
 	],
 	"find":
 	{
-		"height": 29.0
+		"height": 26.9565217391
 	},
 	"find_in_files":
 	{
@@ -1239,6 +1239,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"heure_enr",
 			"element_remarcable",
 			",",
 			"varchar",
@@ -1385,15 +1386,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2062,
+						"buffer_size": 2126,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								645,
-								645
+								1437,
+								1437
 							]
 						],
 						"settings":
@@ -1402,7 +1403,7 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 820.869565217,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -1437,7 +1438,7 @@
 							"word_wrap": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 322.0,
+						"translation.y": 321.739130435,
 						"zoom_level": 1.0
 					},
 					"stack_index": 2,
@@ -1449,15 +1450,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 479,
+						"buffer_size": 511,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								479,
-								479
+								511,
+								511
 							]
 						],
 						"settings":
@@ -1478,7 +1479,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 29.0
+		"height": 26.9565217391
 	},
 	"input":
 	{
@@ -1558,7 +1559,7 @@
 	"project": "Cassandra-CQL.sublime-project",
 	"replace":
 	{
-		"height": 53.0
+		"height": 49.5652173913
 	},
 	"save_all_on_build": true,
 	"select_file":
