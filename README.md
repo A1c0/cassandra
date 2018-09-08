@@ -34,6 +34,6 @@ voici un graphe repésentant le keyspace :
 ![img](https://image.noelshack.com/fichiers/2018/25/2/1529423193-base-cassandra.jpg)
 
 
-[cassandraTelechargement]: http://cassandra.apache.org/download/
+[cassandraDown]: http://cassandra.apache.org/download/
 [gitParseur]: https://github.com/A1c0/Cassandra_parsing_Java_version
 [gitWebApp]: https://github.com/A1c0/Visualisation_Leaflet-Map-Meteor
